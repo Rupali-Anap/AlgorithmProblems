@@ -1,4 +1,4 @@
-package AlgorithmProblems;
+/*package AlgorithmProblems;
 
 public class Permutation {
     public static void print(String str, String permutation, int index) {
@@ -19,5 +19,5 @@ public class Permutation {
         String str = "RU";
         print(str, "", 0);
     }
-}
+}*/
 
