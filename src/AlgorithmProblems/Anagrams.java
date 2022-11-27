@@ -1,4 +1,4 @@
-package AlgorithmProblems;
+/*package AlgorithmProblems;
 import java.util.Arrays;
 
 public class Anagrams {
@@ -39,6 +39,6 @@ public class Anagrams {
             else
                 System.out.println("The two strings are not" + " anagram of each other");
         }
-    }
+    }*/
 
 
