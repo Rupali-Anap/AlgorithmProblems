@@ -1,4 +1,4 @@
-package AlgorithmProblems;
+/*package AlgorithmProblems;
 import java.util.*;
 
 public class InsertionSort {
@@ -42,5 +42,5 @@ public class InsertionSort {
             printArraystring(arr, n);
 
         }
-    }
+    }*/
 
