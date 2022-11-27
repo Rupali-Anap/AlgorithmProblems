@@ -1,4 +1,4 @@
-package AlgorithmProblems;
+/*package AlgorithmProblems;
 
 public class MergeSort {
 
@@ -10,11 +10,11 @@ public class MergeSort {
             int n2 = r - m;
 
             /* Create temp arrays */
-            int L[] = new int[n1];
+          /*  int L[] = new int[n1];
             int R[] = new int[n2];
 
             /*Copy data to temp arrays*/
-            for (int i = 0; i < n1; ++i)
+          /*  for (int i = 0; i < n1; ++i)
                 L[i] = arr[l + i];
             for (int j = 0; j < n2; ++j)
                 R[j] = arr[m + 1 + j];
@@ -22,7 +22,7 @@ public class MergeSort {
             /* Merge the temp arrays */
 
             // Initial indexes of first and second subarrays
-            int i = 0, j = 0;
+          /*  int i = 0, j = 0;
 
             // Initial index of merged subarray array
             int k = l;
@@ -39,14 +39,14 @@ public class MergeSort {
             }
 
             /* Copy remaining elements of L[] if any */
-            while (i < n1) {
+          /*  while (i < n1) {
                 arr[k] = L[i];
                 i++;
                 k++;
             }
 
             /* Copy remaining elements of R[] if any */
-            while (j < n2) {
+          /*  while (j < n2) {
                 arr[k] = R[j];
                 j++;
                 k++;
@@ -69,7 +69,7 @@ public class MergeSort {
         }
 
         /* A utility function to print array of size n */
-        static void printArray(int arr[])
+       /* static void printArray(int arr[])
         {
             int n = arr.length;
             for (int i = 0; i < n; ++i)
@@ -78,7 +78,7 @@ public class MergeSort {
         }
 
         // main fun
-        public static void main(String args[])
+       /* public static void main(String args[])
         {
             int arr[] = { 12, 11, 13, 5, 6, 7 };
 
@@ -91,5 +91,5 @@ public class MergeSort {
             System.out.println("\nSorted array");
             printArray(arr);
         }
-    }
+    }*/
 
