@@ -1,4 +1,4 @@
-/*package AlgorithmProblems;
+package AlgorithmProblems;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -12,7 +12,7 @@ c. Logic -> Use Arrays to sort the word list and then do the binary search
 d. O/P -> Print the result if the word is found or not*/
 
 
-      /*  public static void main(String[] args) {
+      public static void main(String[] args) {
 
             // creating ArrayList object of type String
             ArrayList<String> al = new ArrayList<String>();
@@ -47,5 +47,5 @@ d. O/P -> Print the result if the word is found or not*/
             int iStringSearch = Collections.binarySearch(al, "Binary Search");
             System.out.println("\n\nElement found at index position "+ iStringSearch + " from Sorted ArrayList");
         }
-    }*/
+    }
 

@@ -1,4 +1,4 @@
-package AlgorithmProblems;
+/*package AlgorithmProblems;
 
 public class BubbleSorting<T extends Comparable<T>> {
 
@@ -24,5 +24,5 @@ public class BubbleSorting<T extends Comparable<T>> {
                 System.out.println(element);
             }
         }
-    }
+    }*/
 
